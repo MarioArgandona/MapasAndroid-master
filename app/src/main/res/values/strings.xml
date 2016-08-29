@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Maps en Android</string>
+    <string name="title_activity_mapa_hogar">Mapa Izcalli</string>
+    <string name="regresar_inicio">Regresar</string>
+</resources>
